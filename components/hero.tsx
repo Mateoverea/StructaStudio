@@ -15,11 +15,11 @@ export default function Hero() {
       </div>
       <div className="flex gap-4">
         <Button size="lg">
-          Explore Solutions
+          Explorar soluciones
           <ArrowRight className="ml-2 h-4 w-4" />
         </Button>
         <Button variant="outline" size="lg">
-          Schedule a Demo
+          Consulta una cita
         </Button>
       </div>
     </section>
