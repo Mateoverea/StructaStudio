@@ -1,6 +1,6 @@
 import { Button } from "@/components/ui/button";
 
-export default function cta() {
+export default function CTA() {
   return (
     <section className="border-t">
       <div className="container flex flex-col items-center gap-4 py-24 text-center md:py-32">
